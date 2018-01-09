@@ -1,7 +1,12 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Modèle","order":1,"parentId":0,"scrollX":803.5555555555555,"scrollY":446.22222222222223},
-{"id":2,"expanded":false,"name":"Niveau 1","order":3,"parentId":0,"scrollX":728,"scrollY":409.77777777777777},
-{"id":3,"expanded":false,"name":"Niveau 2","order":4,"parentId":0,"scrollX":819,"scrollY":448.5},
-{"id":4,"expanded":false,"name":"Niveau 0","order":2,"parentId":0,"scrollX":728,"scrollY":409.77777777777777}
+{"id":1,"expanded":false,"name":"Modèle","order":1,"parentId":0,"scrollX":330,"scrollY":448.5},
+{"id":2,"expanded":false,"name":"Niveau 1","order":3,"parentId":0,"scrollX":338,"scrollY":448.5},
+{"id":3,"expanded":false,"name":"Niveau 2","order":4,"parentId":0,"scrollX":338,"scrollY":448.5},
+{"id":4,"expanded":false,"name":"Niveau 0","order":2,"parentId":0,"scrollX":338,"scrollY":448.5},
+{"id":5,"expanded":false,"name":"Niveau 3","order":5,"parentId":0,"scrollX":330,"scrollY":448.5},
+{"id":6,"expanded":false,"name":"Niveau 4","order":6,"parentId":0,"scrollX":330,"scrollY":448.5},
+{"id":7,"expanded":false,"name":"Niveau 5","order":7,"parentId":0,"scrollX":330,"scrollY":448.5},
+{"id":8,"expanded":false,"name":"Niveau 6","order":8,"parentId":0,"scrollX":512,"scrollY":474.5},
+{"id":9,"expanded":false,"name":"Niveau 7","order":9,"parentId":0,"scrollX":330,"scrollY":448.5}
 ]
