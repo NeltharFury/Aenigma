@@ -1,0 +1,4 @@
+$gameMap.events()[this._eventId].isMoving()
+$gameMap.event[this._event].isPassable($gameMap.x,$gameMap.y,$gameMap.direction)
+$gameMap.isPassable($gameMap.events()[this._eventId].x,$gameMap.events()[this._eventId].y,$gameMap.events()[this._eventId].direction)
+$gameMap.events[this._event]._x != $gameVariables[1] || $gameMap.events[this._event]._y != $gameVariables[2] 
